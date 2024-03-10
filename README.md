@@ -5,3 +5,4 @@ Financial portfolio optimization is a Quantitative Financial model in Python, ut
 ### Technologies Used
 - Pandas
 - Numpy
+- Matplotlib
